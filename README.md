@@ -4,6 +4,9 @@
 Das Programm rechnet Schweizer Noten in das Amerikanische Noten um. Der Benutzer kann seine Note eingeben und der Computer gibt die neue Note aus.
 Die Benutzung ist sehr leicht. Der Benutzer muss nur das Programm laufen lassen. Er wird anschliessend nach seiner Note im Schweizer Notensystem gefragt und das Programm macht den Rest. Der Output ist dieselbe Note nur im Amerikanischen Notensystem.
 
+![image](https://user-images.githubusercontent.com/96227764/146332936-6524e23d-23b5-4dd3-a2be-c22be61ad776.png)
+
+
 ## Features:
 
 - Das Programm kann die Schweizer Noten in Amerikanische Noten umrechnen.
